@@ -1,0 +1,8 @@
+C:/1prog/2course/life/cmake-build-debug/CMakeFiles/life.dir
+C:/1prog/2course/life/cmake-build-debug/CMakeFiles/tests.dir
+C:/1prog/2course/life/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/1prog/2course/life/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/1prog/2course/life/cmake-build-debug/lib/googletest-release-1.6.0/CMakeFiles/gtest.dir
+C:/1prog/2course/life/cmake-build-debug/lib/googletest-release-1.6.0/CMakeFiles/gtest_main.dir
+C:/1prog/2course/life/cmake-build-debug/lib/googletest-release-1.6.0/CMakeFiles/edit_cache.dir
+C:/1prog/2course/life/cmake-build-debug/lib/googletest-release-1.6.0/CMakeFiles/rebuild_cache.dir
